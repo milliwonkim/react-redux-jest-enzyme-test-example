@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App renders without crashing given the required props 1`] = `
+<Connect(App)
+  dispatch={[MockFunction]}
+  isFetching={false}
+  posts={Array []}
+  selectedSubreddit="reactjs"
+/>
+`;
